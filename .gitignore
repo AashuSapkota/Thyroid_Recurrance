@@ -9,3 +9,9 @@
 
 # Ignore PDF files
 *.pdf
+
+#  Ignore PNG Files
+*.png
+
+# Ignore PKL files
+*.pkl
